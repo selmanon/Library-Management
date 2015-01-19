@@ -22,6 +22,6 @@ A Library-Management Project with C/GTK+
 
 ![alt tag](https://github.com/selmanon/Library-Management/blob/master/images/book%20list.png)
 
-5) Borrower list : 
+6) Borrower list : 
 
 ![alt tag](https://github.com/selmanon/Library-Management/blob/master/images/borrower%20list.png)
